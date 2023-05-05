@@ -66,9 +66,9 @@
         }
         let game = new Phaser.Game({
             width: 640,
-            height: 520,
+            height: 640,
             scene: Demo,
-            backgroundColor: 0xdddddd,
+            backgroundColor: 0x4bb4c4,
             parent: 'here'
         });
     </script>
